@@ -1,0 +1,3 @@
+[submodule "Ibr-app"]
+	path = Ibr-app
+	url = https://github.com/EngrIbrahimAdnan/Ibr-app
